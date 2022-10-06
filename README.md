@@ -1,5 +1,5 @@
 # EserciziProgrammazione
-non aprire\n
+non aprire
 
 
 
